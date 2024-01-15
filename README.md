@@ -1,5 +1,5 @@
 # ASTmath
-# Calculadora Simple con Árbol de Sintaxis Abstracta (AST)
+# Árbol de Sintaxis Abstracta (AST)
 
 Este proyecto implementa un programa en C++ que utiliza directamente un árbol de expresiones para evaluar y calcular operaciones matemáticas. El árbol de expresiones se construye para representar la estructura de la expresión matemática ingresada y se utiliza para evaluar la operación de manera eficiente.
 
